@@ -1,0 +1,6 @@
+Metric,Value
+RMSE,0.9279
+MAE,0.725
+Global Mean Rating,3.5026
+Training Samples,80668.0
+Testing Samples,20168.0
